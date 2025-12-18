@@ -3,6 +3,8 @@ name: Library/lalyos/silvertutor
 tags: meta/library
 ---
 
+[[Library/lalyos/silvertutor/Masik]]
+
 ```
 ## Singple Page Library - should be shared per page
 name: Library/lalyos/silvertutor/index
