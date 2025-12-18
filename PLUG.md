@@ -1,11 +1,9 @@
 ---
 name: Library/lalyos/silvertutor/PLUG
 tags: meta/library
-files:
-- Masik.md
 ---
 
-...
+faszom
 [[Library/lalyos/silvertutor/Masik]]
 
 ```
