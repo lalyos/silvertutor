@@ -1,8 +1,11 @@
 ---
 name: Library/lalyos/silvertutor
 tags: meta/library
+files:
+- Masik.md
 ---
 
+...
 [[Library/lalyos/silvertutor/Masik]]
 
 ```
