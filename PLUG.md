@@ -1,5 +1,5 @@
 ---
-name: Library/lalyos/silvertutor
+name: Library/lalyos/silvertutor/PLUG
 tags: meta/library
 files:
 - Masik.md
